@@ -1,0 +1,19 @@
+
+Problem 1:
+I used Python.
+I chose it because I haven't worked with csv files before, and all the resources I found used Python.
+I also chose it because Python is a language I'm currently learning and I wanted the practice.
+The pandas library made it a pretty simple task.
+I don't think I would use a different language for this problem.
+
+Problem 2:
+I used Python.
+I chose it because I'm currently learning Python and I wanted the practice.
+Since Python is still new for me it took me a bit longer, but as  language it worked fine for the problem.
+It might have been interesting to try it with a functional language, like Scheme or Lisp.
+
+Problem 3:
+I used bash.
+I chose it because based on my understanding of what the problem was asking, it's the simplest language to use.
+I didn't have difficulty with what I did, but I had difficulty understanding what the problem was asking and whether I did what the problem required.
+I'm not sure if I would use a different language because I'm not sure if I understood the problem.
