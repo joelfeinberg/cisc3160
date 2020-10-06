@@ -1,0 +1,19 @@
+puts to print
+
+array = []
+
+while condition
+  code
+end
+
+(array_length-1).times do |i|
+
+if condition
+  code
+end
+
+Array.length()
+
+for variable [, variable ...] in expression [do]
+   code
+end

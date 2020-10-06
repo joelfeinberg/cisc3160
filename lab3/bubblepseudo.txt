@@ -1,0 +1,8 @@
+while not done
+  swapped = false
+  for i = 0 to length - 1
+    if a[i] > a[i+1]
+      swap(a[i,a[i+1]])
+      swapped = true
+  if not swapped
+    done

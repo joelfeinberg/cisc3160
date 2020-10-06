@@ -1,0 +1,4 @@
+for i 0 to a.length
+  for j i to a.length
+    if a[j] < a[i]
+    swap(a[j],a[i])
